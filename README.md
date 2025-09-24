@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hello, I'm Kyeyang 👋</h1>
 
-<!--
-**kyeyang/kyeyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 Computer Science Student<br>
+🛡️ Learning Cybersecurity<br>
+💻 Aspiring Fullstack Developer
+</p>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,python,react,mongo,express,typescript,vercel,nodejs,github" width="100%" />
+</div>
